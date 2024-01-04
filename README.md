@@ -1,0 +1,1 @@
+Developed an implementation of the Pix2Pix model based on the paper” Image-to-Image Translation with Conditional Adversarial Networks”. Implemented the core components (generator and discriminator network) of the Pix2Pix model from scratch using Python
